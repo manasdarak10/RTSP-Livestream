@@ -24,7 +24,7 @@ Main/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository & Navigate
+###1. Clone the Repository & Navigate
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/react-flask-webcam.git
