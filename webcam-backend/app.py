@@ -5,7 +5,7 @@ import cv2
 app = Flask(__name__)
 CORS(app)
 
-RTSP_URL = "rtsp://10.129.2.138:554/main_stream"
+RTSP_URL = "ENTER YOUR URL HERE"
 streaming = {"active": True}
 
 def generate_frames():
